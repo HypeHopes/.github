@@ -1,9 +1,7 @@
 
 
-### 🧠 **HypeHopes**
 
-**Descripción General**
-HypeHopes es un estudio especializado en el diseño y desarrollo de **productos digitales web**. Nos enfocamos en crear soluciones sólidas, escalables y visualmente profesionales que permitan a negocios y proyectos consolidar su presencia digital, mejorar su productividad y ofrecer experiencias modernas a sus usuarios.
+Somos un estudio especializado en el diseño y desarrollo de **productos digitales web**. Nos enfocamos en crear soluciones sólidas, escalables y visualmente profesionales que permitan a negocios y proyectos consolidar su presencia digital, mejorar su productividad y ofrecer experiencias modernas a sus usuarios.
 Nuestro enfoque combina arquitectura limpia, buenas prácticas de desarrollo y un diseño centrado en la simplicidad y el rendimiento.
 
 ---
